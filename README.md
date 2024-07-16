@@ -9,4 +9,5 @@ I'm Gaby! I'm a biostatistician currently working on my Master of Science in Bio
 - ⚡ Fun fact: I've mostly done work on private health data :lock: 
 
 LinkedIn: www.linkedin.com/in/gabriela-diaz-2b8558314
+
 Medium: https://medium.com/@gvictoria683
