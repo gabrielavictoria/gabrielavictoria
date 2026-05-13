@@ -1,13 +1,24 @@
-## Hello, World! :love_letter: :sparkles:
-I'm Gaby! I'm a biostatistician currently working on my Master of Science in Biostatistics at UM. I have experience in R, SAS, Python, survival analysis, and machine learning.
+# Hello, World! 💌✨
 
-- 🔭 I’m currently working on perfecting my R skills
-- 🌱 I’m currently learning machine learning methods 
-- 👯 I’m looking to collaborate in the pharmaceutical industry
-- 💬 Ask me about reproducible research!
-- 📫 How to reach me: gxd683@miami.edu
-- ⚡ Fun fact: I've mostly done work on private health data :lock: 
+Hi, I’m Gaby — a biostatistician and data analyst with a background in public health, behavioral health, and healthcare research. I recently completed my M.S. in Biostatistics at the University of Miami and currently work in data analysis and program evaluation.
 
-LinkedIn: www.linkedin.com/in/gabriela-diaz-2b8558314
+## 🔬 Interests
+- Healthcare & public health analytics
+- Data visualization and storytelling
+- Outcomes research & epidemiology
+- Behavioral health and health equity
+- Statistical modeling & reproducible research
 
-Medium: https://medium.com/@gvictoria683
+## 🛠️ Tools & Skills
+- **Languages:** R, Python, SQL, SAS
+- **Visualization:** Tableau, ggplot2, Power BI, R Shiny
+- **Methods:** Survival analysis, regression, predictive modeling, machine learning
+- **Other:** REDCap, Qualtrics, data cleaning & validation
+
+## 🌱 Currently Learning
+- Advanced SQL & cloud data tools
+- Snowflake fundamentals
+- Better dashboard and analytics workflows
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/gabriela-diaz-2b8558314
